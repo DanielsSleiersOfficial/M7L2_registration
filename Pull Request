@@ -1,0 +1,9 @@
+git branch
+
+git checkout -b new-branch-name
+
+git add test.py
+
+git commit -m "Описание внесенных изменений"
+
+git push origin new-branch-name
